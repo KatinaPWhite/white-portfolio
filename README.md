@@ -10,3 +10,8 @@ As the daughter of a science teacher, I've always been nerdy, enjoying the inter
 What I love about the MAM program is that I have learned so much about the value of data. Specifically, I've learned the importance of data to create better customer experiences and more effectively market to them. I am excited to learn how to better visualize data so that I can better understand what the data is trying to tell me. I am also interested in learning how to better visualize data in order to understand how to create a better user experience for arts organizations. Finally, I am looking forward to being able to communicate data differently, especially to people who are more artistic.   
 
 # Portfolio
+
+# Homework Two
+OECD Data:
+<iframe src="https://data.oecd.org/chart/5slB" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5slB" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
+
