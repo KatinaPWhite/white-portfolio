@@ -28,6 +28,9 @@ In a completely different vein, the last chart, a box and whisker plot, still de
 
 #Assignment 4:
 
+
+![WWE Royal Rumble Winner by Entrant Number Original Data obtained from http://www.espn.com/wwe/story/_/id/22223712/wwe-all-key-royal-rumble-facts-stats-trends-other-figures-need-know-espn-stats-info on February 2nd, 2019](/Data Viz.jpg)
+
 Wireframes:
 
 Circular Dendogram
