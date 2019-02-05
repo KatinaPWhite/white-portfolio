@@ -30,9 +30,9 @@ In a completely different vein, the last chart, a box and whisker plot, still de
 
 Something I neglected to mention  in my About Me section is that I am a new fan of WWE. A few weekends ago was the 2019 Royal Rumble, which has a lot of interesting data surrounding the history of the event. Below is a visualization I found that was created after the 30th Royal Rumble in 2018. 
 
-![WWE Royal Rumble Winner by Entrant Number Original Data obtained from http://www.espn.com/wwe/story/_/id/22223712/wwe-all-key-royal-rumble-facts-stats-trends-other-figures-need-know-espn-stats-info on February 2nd, 2019](/Data Viz.jpg)
+![WWE Royal Rumble Winner by Entrant Number Original Data obtained from http://www.espn.com/wwe/story/_/id/22223712/wwe-all-key-royal-rumble-facts-stats-trends-other-figures-need-know-espn-stats-info on February 2nd, 2019](/Data Viz.PNG)
 
-Although this table is informative, there are a few issues with it. First, without digging deeper it's hard to tell what the total data set is, and if 4 is a significant portion of the total amount. Second, it doesn't show the other winning entrant numbers, just the top 3. Finally, it is created specifically for a WWE fans as it's audience, by assuming they know how the Royal Rumble works and why the data is interesing or significant. In my revisualization technique, I was searching for ways to communicate this information in a more visually stimulating way and show the full scope of the data instead of only part of it.  
+Although this table is informative, there are a few issues with it. First, without digging deeper it's hard to tell what the total data set is, and if 4 is a significant portion of the total amount. Second, it doesn't show the other winning entrant numbers, just the top 3. Finally, it is created specifically for a WWE fans as it's audience, by assuming they know how the Royal Rumble works and why the data is interesing or significant. In my revisualization technique, I was searching for ways to communicate this information in a more visually stimulating way and show the full scope of the data instead of only part of it. The following four visualizations were my initial wireframes to test on my friends.  
 
 Wireframes:
 
