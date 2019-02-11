@@ -67,4 +67,5 @@ Additional credit for the data goes to: https://data.world/umarhassan/wwe-royal-
 
 From this exercise I learned something interesting. Sometimes the most logical visualization isn't the most flashy. Ideally, if I were re-writing the ESPN article, I would include both the Circular Packing and the Cluster Dendograms, as I think both models tell interesting aspects of the story. I also learned that sometimes you're limited by what data you have and you might have to add additional manipulation to your data to get what you need. For this assignment in particular I had to aggregate the number of times each entrant number won, as the original data set didn't include the aggregations. In conclusion, I think I struggled with creating a colorful and vibrant visualization that communicated as effectively as a less "fun" visualization. Moving forward I look to continue to find this balance in future projects. 
 
+# Final Project
 [Final Project Page Here](CGM_Final_Project.md)
