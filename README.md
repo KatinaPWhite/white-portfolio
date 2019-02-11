@@ -11,7 +11,7 @@ What I love about the MAM program is that I have learned so much about the value
 
 # Portfolio:
 
-# Homework Two
+## Homework Two
 OECD Data:
 <iframe src="https://data.oecd.org/chart/5slB" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5slB" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
@@ -26,7 +26,7 @@ The second chart is a beeswarm chart. This chart demonstrates the percentage of 
 
 In a completely different vein, the last chart, a box and whisker plot, still demonstrates change over time, but shows the interquartile ranges of the percentage of debt to GDP for all countries for that year. So, we lose the detail of seeing the debt for each contry individually, but see the range and average debt of all recorded countries. I choose this plot because the dataset included a lot of data that was "ignored" in some ways by the other visualizations (particularaly the bar chart, as you look to the highest values and ignore the first 2/3rds). I was curious what the data could tell me over time without being overly cluttered by needing to see it broken down by each country. This plot shows us that the average amount of debt across all countries has been increasing since about 2007, hitting it's peak in 2014. With regards to color, I choose to do a gradient for the values, to help demonstrate visually how small the range was in the mid-200s, but how large the averages were in the late-1990s, and how large they are now. I could have used color, instead of a grayscale, but I felt that there is some nuance in the gradient, which is easier to see in grayscale. Additionally, I wanted it to match my previous visualization. It felt inconsistent to communicate the same data using another color, since black was used earlier. I utilized the blue colors from OECD generated graph first, but after some testing felt it wasn't a good fit. Finally, since this data is communicating the average for all countires for each year, utilizing the colors from the first chart wouldn't have worked, since green is communicating Japan's debt percentage and having green for 2015 would have been misleading and confusing to the reader. 
 
-# Assignment 4:
+## Assignment 4:
 
 Something I neglected to mention  in my About Me section is that I am a new fan of WWE. A few weekends ago was the 2019 Royal Rumble, which has a lot of interesting data surrounding the history of the event. Below is a visualization I found that was created after the 30th Royal Rumble in 2018. 
 
@@ -57,7 +57,7 @@ Some initial feedback from these wireframes was:
 
 I decided to utilize the circle packing, but modified the colors to match the branding of the WWE. I also added a title, as well as key for the labeling system. 
 
-# Want to win the WWE Royal Rumble? Draw number 27. 
+### Want to win the WWE Royal Rumble? Draw number 27. 
 
 KEY: Entrance Number, Number of Winners who drew this number over the event's 30 year history. 
 
