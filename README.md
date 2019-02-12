@@ -13,7 +13,7 @@ What I love about the MAM program is that I have learned so much about the value
 ## Tutorials
 ### Datawrapper
 <iframe title="Chart: USDA Family Farms" aria-describedby="" id="datawrapper-chart-s2Lah" src="//datawrapper.dwcdn.net/s2Lah/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
-“Diverse Family Farms Are Important to U.S. Agriculture | USDA.” Accessed February 12, 2019. https://www.usda.gov/media/blog/2017/07/20/diverse-family-farms-are-important-us-agriculture
+“Diverse Family Farms Are Important to U.S. Agriculture" USDA. Accessed February 12, 2019. https://www.usda.gov/media/blog/2017/07/20/diverse-family-farms-are-important-us-agriculture
 
 
 ## Homework
