@@ -10,8 +10,14 @@ As the daughter of a science teacher, I've always been nerdy, enjoying the inter
 What I love about the MAM program is that I have learned so much about the value of data. Specifically, I've learned the importance of data to create better customer experiences and more effectively market to them. I am excited to learn how to better visualize data so that I can better understand what the data is trying to tell me. I am also interested in learning how to better visualize data in order to understand how to create a better user experience for arts organizations. Finally, I am looking forward to being able to communicate data differently, especially to people who are more artistic.   
 
 # Portfolio:
+## Tutorials
+### Datawrapper
+<iframe title="Chart: USDA Family Farms" aria-describedby="" id="datawrapper-chart-s2Lah" src="//datawrapper.dwcdn.net/s2Lah/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
+“Diverse Family Farms Are Important to U.S. Agriculture | USDA.” Accessed February 12, 2019. https://www.usda.gov/media/blog/2017/07/20/diverse-family-farms-are-important-us-agriculture
 
-## Homework Two
+
+## Homework
+### Homework 2
 OECD Data:
 <iframe src="https://data.oecd.org/chart/5slB" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5slB" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
