@@ -59,6 +59,8 @@ From this feedback I will continue to use Infogram to change the visualization a
 
 ## Personal Glucose Data Visulaizations
 
-
+Here is the link to my public [Tableau](https://public.tableau.com/views/DataVisualizationFinalPersonalNumbers/Sheet1?:embed=y&:display_count=yes) visulationzations.
+This is personal CGM data that I was playing with. I am still manipulating it, but plan on incorporating it into my final project. 
 
 Here is the storyboard for my final project using [Shorthand](https://carnegiemellon.shorthandstories.com/kpwhiteCGMdata/index.html)
+The basic outline of the story is there, as well as some attempts to include personal artifacts, specifically my handwritten Glucose Logs after my initial diagnosis. 
