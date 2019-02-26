@@ -39,9 +39,9 @@ For this project, I want to communicate the importance of Continuous Glucose Mon
 I plan on utilizing personal CGM Data that I've collected to demonstrate how it functions and why it's better than the Finger-Stick Glucose Monitoring Data I have. 
 Additionally, more information about CGMs and how much data they collect can be found here:
 http://www.dexcom.com/continuous-glucose-monitoring?utm_source=adwords&utm_campaign=b&sfc=701f3000000athzAAA&gclid=EAIaIQobChMI6onYxoy04AIVUFqGCh0PQg7sEAAYASABEgLnH_D_BwE
-### Storytelling
-I will be using Shorthand to build an tell my story. I will also be using RAW and Infogram to build the visualizations and infographics
 
+### Storytelling
+I will be using Shorthand to build an tell my story. I will also be using Tableau and Infogram to build the visualizations and infographics
 
 ## Part II
 ## Data Visulaization Tests
@@ -55,7 +55,7 @@ From this first infographic I receieved feedback from some non-diabetic audience
 
 Again showing this infographic to a non-diabetic, they better understood that it was visualizing blood tests. However, without context, this person thought that CGMs are a bad, as there were more red blood drops than the earlier data. They also questioned why I included perscribed versus used tests. I thought this information was useful in telling the story, as often people use more finger-stick tests than perscribed. I will need to be clear why the distinction in made in the narrative of my story. 
 
-From this feedback I will continue to use Infogram to change the visualization again. I need to keep thuinking about how to demonstrate that CGMs collect mroe data without using blood. I might use an image of a glucose test strip instead, however, those are only used for Finger-Stick testing and I think finger-stick testing is best visualized with blood drops, as those are required for each test. 
+From this feedback I will continue to use Infogram to change the visualization again. I need to keep thinking about how to demonstrate that CGMs collect more data without using blood. I might use an image of a glucose test strip instead, however, those are only used for Finger-Stick testing and I think finger-stick testing is best visualized with blood drops, as those are required for each test. 
 
 ## Personal Glucose Data Visulaizations
 
@@ -64,3 +64,15 @@ This is personal CGM data that I was playing with. I am still manipulating it, b
 
 Here is the storyboard for my final project using [Shorthand](https://carnegiemellon.shorthandstories.com/kpwhiteCGMdata/index.html)
 The basic outline of the story is there, as well as some attempts to include personal artifacts, specifically my handwritten Glucose Logs after my initial diagnosis. 
+
+## Part III
+Here is the final deliverable using [Shorthand](https://carnegiemellon.shorthandstories.com/kpwhiteCGMdata/index.html). 
+
+# Audience
+When I first began this assignment I wanted my audience to be the policy students in the room to influence them to advocate for access to continuous glucose technology when they're in policy-making positions. However, as I continued to work and reseach I had trouble finding data on the number of CGM users and how easy or difficult it was for them to get access to this technology. I realized that the "hot button" issue currently is with insulin price increases, which luckliy I haven't experienced. Finally, I had all of this personal data and decided I wanted to tell a more intimate story. So, as I was working on this project I decided I wanted to tell my story. I decided to keep the same general thesis, that CGMs provide more data than finger-stick testing, but I wanted to spin it to show my persopective. 
+
+That being said, the revised audience for this story are the people who know me but don't know all of the details of my diagnosis and disease. The distinction lies in how well I know the person, as my family and boyfriend have intimate knowledge of my diagnosis, diabetes, and CGM technology. Some of my friends also understand some of the elements of my day-to-day healthcare management, but might not understand the nuance of finger-stick versus CGM. The most challenging thing about my intended audience is that we are friends and colleges, but they may lack an understanding of some of the very basic elements diabetes and it's management, which I know very well. Additionally, since my boyfriend and family are also well-versed in "diabetes talk", it's hard to break out of the jargon. 
+
+To help make this project work better for my intended audience, I worked on visual storytelling, including personal artifacts from my experiences. I also made sure to tell my story between the technical writing to keep them engaged and connected. I also worked hard to remove the jargon. I found that using definitions that were designed for the newly diagonsed was helpful, as it assumes the reader is very unfamiliar with the subject. Finally, I realised that I needed to define what a Continuous Glucose Monitor was early in the process to ensure I didn't bury my thesis. This was a challenge because I had to assume the reader didn't know the "traditional" method of glucose testing and then move into what a CGM is then why it's awesome. I didn't utilize a persona because my intended audience is my friends, so I jut made sure to use them instead for feedback. 
+
+# Summary of Work 
